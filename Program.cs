@@ -20,11 +20,13 @@ namespace CursoCSharp
                 {"Operadores Aritmetricos  - Fundamentos", OperadoresAritmeticos.Executar },
                 {"Exercício 1 - Fundamentos", Exercicios.Executar },
                 {"Exercício IF e ELSE - Fundamentos", ExercicoIfElse.Executar },
+
                 {"Estrutura Switch - Estruturas de Controle", EstruturaSwitch.Executar},
                 {"Exercicio Switch - Estruturas de Controle", ExercicioSwitch.Executar},
                 {"Estrutura While e For - Estruturas de Controle", EstruturaWhileEFor.Executar},
                 {"Exercicio While e For - Estruturas de Controle", ExercicioRepeticao.Executar},
                 {"Estrutura Foreach - Estruturas de Controle", EstruturaForeach.Executar},
+
                 {"Classes e Metodos - Classes e Metodos", Membros.Executar},
                 {"Construtor - Classes e Metodos", MetodosComRetorno.Executar},
                 {"Exercicio Metodos e Classes", ExerciciosMetodosComRetorno.Executar}
